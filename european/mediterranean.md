@@ -2,6 +2,6 @@
 ## Mediterranean
 ---
 Select a restaurant
-Tanoreen
-Le Sajj
+# Tanoreen https://tanoreen.com/
+# Le Sajj https://www.lesajj.com/
 --- Back to european

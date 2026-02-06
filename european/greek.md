@@ -2,7 +2,6 @@
 ## Greek
 ---
 Select a restaurant
-Ommonia cafe
-Something Greek
----
-Back to European
+## Omonia Cafe https://omoniacafe.com/menu/
+## Yafa Cafe https://yafacafe.toast.site/order
+--- Back to European
